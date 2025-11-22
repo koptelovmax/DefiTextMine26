@@ -10,4 +10,5 @@ Mes solutions au défi TextMine 2026 : https://www.kaggle.com/competitions/defi-
 - **DefiTextMine_OpenAI_RAG.ipynb** -- une approche utilisant ChatGPT + RAG
 - **DefiTextMine_xAI.ipynb** -- une approche utilisant Grok
 - **DefiTextMine_xAI_RAG.ipynb** -- une approche utilisant Grok + RAG
+
 Meilleur score obtenu : 0,81292 avec la méthode OpenAI+RAG
