@@ -1,6 +1,6 @@
 # Défi TextMine EGC 2026
 
-Mes solutions au défi TextMine 2026 : https://www.kaggle.com/competitions/defi-text-mine-egc-2026
+Mes solutions pour le défi TextMine 2026 : https://www.kaggle.com/competitions/defi-text-mine-egc-2026
 
 ## Contenu du dépôt:
 - **DefiTextMine_baseline.ipynb** -- analyse exploratoire + approche de base fondée sur les similitudes sémantiques
@@ -11,4 +11,4 @@ Mes solutions au défi TextMine 2026 : https://www.kaggle.com/competitions/defi-
 - **DefiTextMine_xAI.ipynb** -- une approche utilisant Grok
 - **DefiTextMine_xAI_RAG.ipynb** -- une approche utilisant Grok + RAG
 
-Meilleur score obtenu : 0,81292 avec la méthode OpenAI+RAG
+Meilleur score obtenu : 0,81292 avec la méthode OpenAI+RAG (public score)
